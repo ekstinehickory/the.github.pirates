@@ -1,67 +1,3 @@
--=[ Oh Hai! Welcome to The Github Pirates hum0ns.txt ]=-
-
-            .-.
-           (0.0)
-         '=.|m|.='
-         .='`"``=.
-
-Ascii Skull, courtesy of:
-http://www.geocities.com/spunk1111/small.htm
-Geocities still alive, WTF/FTW?!
-
-
-
-
--=[ Scriptz Used on the Site ]=-
-
-Thx, Ben Alman (A.K.A cowboy)
-https://github.com/cowboy/jquery-hashchange/
-
-Thx, James Florentino
-http://jamesflorentino.com/jquery.nanoscroller/
-https://github.com/jamesflorentino/nanoScrollerJS
-
-Thx, Zurb
-http://www.zurb.com/playground/reveal-modal-plugin
-
-Thx, Scott Robbin
-http://srobbin.com/jquery-plugins/jquery-backstretch/
-
-
-
-
--=[ Inspiration / Ideas ]=-
-
-Thx, The HTML5 Boilerplate Team
-http://h5bp.com/
-(For the Molot webfont idea. It rocks!)
-
-Thx, Chris Coyier of CSS-Tricks, for the following techniques:
-http://css-tricks.com/snippets/css/flip-an-image/
-http://css-tricks.com/adding-stroke-to-web-text/
-
-Thx, Google for MailHide, and Google Docs Form Submitter. They rule :)
-http://www.google.com/recaptcha/mailhide/
-http://www.google.com/docs/
-
-Thx, to these guys for handling teh financez:
-http://flattr.com/
-
-Thx to ninetydegrees, for those sexy CSS3 buttons. Money well spent ;)
-http://codecanyon.net/user/ninetydegrees
-http://codecanyon.net/item/delicious-css3-buttons/236656
-
-And last but not least, thx, Lea Verou for the swords used in the logo.
-http://lea.verou.me/logo.svg
-
-====================================
-All other coding was done by David Higgins (A.K.A, The Curator)
-
-www.davidhiggins.me
-www.higg.in
-
-====================================
-
 === DOWNLOAD THE CHEST (MIRRORS) ===
 
 Each file presented here is the same file:
@@ -134,5 +70,3 @@ Each file presented here is the same file:
 * voloko-facebook-circles-81aa985.zip
 * zacstewart-Meow-50c4f12.zip
 * zurb-reveal-f9badce.zip
-
-kthxbai
